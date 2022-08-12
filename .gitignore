@@ -361,3 +361,19 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/UserSettings
+/UnityEngine.UI.Player.csproj
+/UnityEngine.UI.csproj
+/Unity.VisualStudio.Editor.csproj
+/Unity.PlasticSCM.Editor.csproj
+/Unity.InternalAPIEngineBridge.001.Player.csproj
+/Unity.InternalAPIEngineBridge.001.csproj
+/Unity.2D.Psdimporter.Editor.csproj
+/Unity.2D.Animation.Runtime.Player.csproj
+/Unity.2D.Animation.Runtime.csproj
+/ignore.conf
+/Bezier.sln
+/Assembly-CSharp.Player.csproj
+/Assembly-CSharp.csproj
+/.vsconfig
+/.plastic
